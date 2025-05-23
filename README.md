@@ -1,1 +1,1 @@
-# enterprise_data_knowledge_graph
+# Enterprise Data Knowledge Graph
