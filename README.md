@@ -51,5 +51,9 @@ Include [this function](functions/to_dkg.py) in the script to lead the prepared 
 
 ---
 
-## Add New Knowledge Domains
+## Add new knowledge domains
 Many more knowledge domains will be added to DKG, so each serves as a contributor. We start with analyzing the new knowledge domain's data model. Repeat step 1 and connect the new knowledge domain to the existing DKG Ontology. Then, repeat step 2 and 3.
+
+
+## Automate data updates from metadata sources to DKG
+Knowledge evolves. These changes are captured in metadata sources. The next steps involve automating data updates from metadata sources to DKG. See the design [here](kafka_with_customed_poller.md).
