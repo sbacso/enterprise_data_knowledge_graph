@@ -35,7 +35,7 @@ Begin by creating a comprehensive list, which serves as the foundation for DKG g
 
 In practice, sometimes we see "Software System" having an attribute called "owned_by_organization_unit". However, "Organization Unit" is an entity existing on its own. The better way is to model it as an asset-to-asset relationship - "Software System" is owned by "Organization Unit".
 
-Once the list is done, we can use [this notebook](onto_starter_kit/onto_starter_kit.jpynb) to prepare data and load it into DKG Ontology graph.
+Once the list is done, we can use [this notebook](onto_starter_kit/onto_starter_kit.ipynb) to prepare data and load it into DKG Ontology graph.
 
 
 ### 2. Use Type Library to standardize
