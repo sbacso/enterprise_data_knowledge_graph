@@ -1,0 +1,24 @@
+name,display_name
+column,Database Column
+table,Database Table
+schema,Database Schema
+data_source,Database
+system,Software System
+personal_data_element,Personal Data Element
+standard_data_attribute,Standard Data Attribute
+data_attribute,Logical Data Attribute
+data_model,Logical Data Model
+business_term,Business Term
+data_entity,Logical Data Entity
+digital_unit,Digital Unit
+individual,Type of Individual
+purpose_of_use,Purpose of Use
+personal_data_classification,Personal Data Classification
+personal_data_category,Personal Data Category
+retention_period,Retention Period
+controller,Controller
+legal_basis,Legal Basis
+reference_list,Reference List
+sda_category,Standard Data Attribute Category
+reference_value,Reference Value
+business_api,Business API

@@ -1,0 +1,27 @@
+name,display_name,data_type
+description,Description,STRING
+data_type,Data Type,STRING
+format,Format,STRING
+db_table_type,DB Table Type,STRING
+db_comment,DB Comment,STRING
+num_visits,Num of Visits,NUMERIC
+popularity_score,Popularity Score,NUMERIC
+country_specific,Country Specific,ARRAY
+request_for_access,Request for Access,STRING
+db_source_type,DB Source Type,STRING
+hosting,Hosting,ARRAY
+target_group,Target Group,ARRAY
+home_url,Home URL,STRING
+system_type,System Type,ARRAY
+length,Length,NUMERIC
+default,Default,STRING
+is_nullable,Is Nullable,BOOL
+key_type,Key Type,STRING
+project,Project,STRING
+abbreviation,Abbreviation,STRING
+definition,Definition,STRING
+example,Example,STRING
+note,Note,STRING
+unit_type,Unit Type,ARRAY
+reference,Reference,STRING
+type,Type,STRING
