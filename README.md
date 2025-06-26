@@ -47,7 +47,7 @@ Use the [functions](functions) (transformation logics) in the script.
 
 
 ### 3. Load the prepared data to DKG 
-Include [this function](functions/to_dkg.py) in the script to lead the prepared data to DKG.
+Include [this function](functions/to_dkg.py) in the script to load the prepared data to DKG.
 
 ---
 
