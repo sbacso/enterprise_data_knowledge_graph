@@ -34,16 +34,6 @@ In the course of developping an application, Team B consumed Team A's Data Produ
 *Linked Metadata Deployment Scheme* ``` ↑ ```
 
 
-#### The three kinds of Metadata Sources
-
-The first two refer to the **Enterprise solutions** in Linked Metadata Deployment Scheme, with different governance styles. The third one is temporary for experiment, and will change to the first or the second kind.
-
-1. Centralized governance, *e.g. Software System Catalog*. Asset Areas are created and registered in DKG ontology, and loaded to DKG through the pipeline.
-
-2. Federated governance, *e.g. Business Glossary*. Asset Areas are created in the source and loaded to DKG through the pipeline. They are registered in DKG Ontology as “*… created at the metadata source.” (starts with * ).
-
-3. Incubation source, *e.g. “…_Confluence page”*. Asset Areas are created and registered in DKG ontology, and loaded to DKG through the pipeline.
-
 
 ### Assets, Asset Areas and Their Types
 <img src="images/asset_type_and_asset_area_type.png" alt="Asset Type and Asset Area Type" width="800"/>
@@ -78,3 +68,4 @@ Relation Types are exclusively for between-the-Asset-Types relationships.
 <img src="images/status.png" alt="Status" width="500"/>
 
 Status is exclusively for Assets. However, not all Assets have status. The ontology governs the Status based on how it is managed by the metadata source, as well as assigning numeric codes for DKG operation.
+
